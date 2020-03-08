@@ -1,0 +1,10 @@
+* Filter commit history with git log command
+
+
+         git log = to display all the log records
+         git log -2 = to display last 2 log record
+         git log --online = to display all log records in one line
+         git log --author = "John Smith" (find logs which is done by specified author)
+         git log -i --author="john smith" (ignore case sensitive)
+         git log -i --grep="add" (find the specified string related content)
+         git log -i -p --grep="add" (find the specified string related code content)
