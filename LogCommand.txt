@@ -8,3 +8,6 @@
          git log -i --author="john smith" (ignore case sensitive)
          git log -i --grep="add" (find the specified string related content)
          git log -i -p --grep="add" (find the specified string related code content)
+         
+         //some new changes have applied
+         //in LogCommand.txt file
